@@ -52,6 +52,6 @@ streamlit run app.py
 
 ---
 
-## 🌐 SDG Alignment
+##  SDG Alignment
 This project directly supports **SDG 2 — Zero Hunger** by providing 
 a data-driven early warning system for food insecurity.
